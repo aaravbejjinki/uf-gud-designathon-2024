@@ -1,23 +1,23 @@
 ## Inspiration
-The inspiration behind MediChat stemmed from our collective desire to address the pressing issues of mental health, boredom, and isolation among patients in hospitals. Recognizing the crucial need for support and connection, we set out to create innovative solutions that harness the power of technology to make a meaningful impact.
+The inspiration behind MediChat stemmed from my collective desire to address the pressing issues of mental health, boredom, and isolation among patients in hospitals. Recognizing the crucial need for support and connection, I set out to create innovative solutions that harness the power of technology to make a meaningful impact.
 
 ## What it does
 MediChat comprises three groundbreaking implementations tailored to enhance mental health support and alleviate feelings of isolation:
 
-1. **Comprehensive App for Connections and Cultural Exchange:** Our app facilitates diverse connections and cultural exchange opportunities. Patients can engage with fellow patients or non-patients, choosing from a variety of languages to communicate. With built-in translation capabilities, we promote language literacy while fostering meaningful cultural and social interactions within patients and outsiders.
+1. **Comprehensive App for Connections and Cultural Exchange:** My app facilitates diverse connections and cultural exchange opportunities. Patients can engage with fellow patients or non-patients, choosing from a variety of languages to communicate. With built-in translation capabilities, I can promote language literacy while fostering meaningful cultural and social interactions within patients and outsiders.
 
-2. **Discord Bot for Monitoring and Support:** Our Discord bot actively monitors conversations within our dedicated server, instantly reaching out via direct message whenever patients express distress or mention trigger words related to stress or suicidal thoughts. The bot gives users the option too chat with a virtual human that we created during this Design-A-Thon.
+2. **Discord Bot for Monitoring and Support:** My Discord bot actively monitors conversations within my dedicated server, instantly reaching out via direct message whenever patients express distress or mention trigger words related to stress or suicidal thoughts. The bot gives users the option too chat with a virtual human that I created during this Hack-A-Thon.
 
-3. **Virtual Human Companion:** We introduce a revolutionary virtual human companion accessible through the Discord bot. This compassionate AI provides a safe space for patients to articulate their mental health concerns, offering guidance on stress management, life responsibilities, sleep hygiene, and concentration enhancement. The virtual human works via message or voice dictation, ensuring that patients who do not have capabilities of typing to this virtual human can still communicate.
+3. **Virtual Human Companion:** I introduced a revolutionary virtual human companion accessible through the Discord bot. This compassionate AI provides a safe space for patients to articulate their mental health concerns, offering guidance on stress management, life responsibilities, sleep hygiene, and concentration enhancement. The virtual human works via message or voice dictation, ensuring that patients who do not have capabilities of typing to this virtual human can still communicate.
 
-## How we built it
-In engineering MediChat, we harmonized technological prowess with human-centric design principles. Here's how we brought our vision to life:
+## How I built it
+In engineering MediChat, I harmonized technological prowess with human-centric design principles. Here's how I brought my vision to life:
 
-- **Comprehensive App Development:** We meticulously crafted an app interface optimized for intuitive navigation and accessibility using Figma, a collaborative design tool. Additionally, employing HTML, CSS, and JavaScript, we architected a virtual human website characterized by an inviting user interface and seamless user experience. 
+- **Comprehensive App Development:** I meticulously crafted an app interface optimized for intuitive navigation and accessibility using Figma, a collaborative design tool. Additionally, employing HTML, CSS, and JavaScript, I architected a virtual human website characterized by an inviting user interface and seamless user experience. 
 
-- **Discord Bot Infrastructure:** Utilizing Python in conjunction with Discord.py, we engineered a bot infrastructure capable of real-time communication and personalized support.
+- **Discord Bot Infrastructure:** Utilizing Python in conjunction with Discord.py, I engineered a bot infrastructure capable of real-time communication and personalized support.
 
-- **Virtual Human Companion:** Leveraging Dialogflow, an AI-powered conversational platform, we developed a virtual human with sophisticated natural language understanding capabilities, fostering empathetic interactions with patients.
+- **Virtual Human Companion:** Leveraging Dialogflow, an AI-powered conversational platform, I developed a virtual human with sophisticated natural language understanding capabilities, fostering empathetic interactions with patients.
 
 ## Setup and Running Guide for Discord Bot (MediPal)
 
@@ -98,8 +98,8 @@ Before proceeding, ensure you have the following:
 - Customize the behavior of the chat interface by editing the JavaScript code in the `script.js` file.
 - Adjust the content and responses of the Dialogflow agent in the Dialogflow Console.
 
-## Challenges we ran into
-Throughout the development journey of MediChat, we encountered several challenges that put our skills to the test:
+## Challenges I ran into
+Throughout the development journey of MediChat, I encountered several challenges that put my skills to the test:
 
 - Configuring and troubleshooting to get the virtual human to go live on Dialogflow.
 - Crafting contextually relevant responses for the virtual human.
@@ -107,13 +107,13 @@ Throughout the development journey of MediChat, we encountered several challenge
 - Grappling with simple semantics and encountering Python debugging issues.
 
 ## Accomplishments that we're proud of
-We are immensely proud of the impactful solutions we've created with MediChat:
+I are immensely proud of the impactful solutions I created with MediChat:
 
 - Designing an intuitive app interface that promotes language literacy and cultural exchange.
 - Developing a robust Discord bot capable of proactive support.
 - Implementing a virtual assistant to work with patients on specific needs.
 
-## What we learned
+## What I learned
 The journey of building MediChat was rich with valuable lessons and insights:
 
 - Understanding the complexities surrounding mental health support and the importance of leveraging technology to foster meaningful connections.
@@ -121,8 +121,8 @@ The journey of building MediChat was rich with valuable lessons and insights:
 - Perseverance and teamwork are key to overcoming challenges in creating innovative solutions.
 
 ## What's next for MediChat
-Looking ahead, we are committed to continuous improvement and expansion of MediChat:
+Looking ahead, I am committed to continuous improvement and expansion of MediChat:
 
-- Refining the capabilities of our virtual human companion for more personalized support.
-- Enhancing the user experience of our app for seamless interactions.
+- Refining the capabilities of my virtual human companion for more personalized support.
+- Enhancing the user experience of my app for seamless interactions.
 - Exploring opportunities for partnerships and collaborations to reach a wider audience and make a global impact.
